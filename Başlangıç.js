@@ -6,7 +6,7 @@
             <meta equiv="content-type" content="text/html ; charset=utf-8">
              <title>Tunahan KAYA</title>
 
-        </head>
+        </head>AR
 
         <body>
             <script type="tpye/javascript" lang="javascript">
